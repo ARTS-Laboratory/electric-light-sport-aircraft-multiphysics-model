@@ -1,4 +1,4 @@
-# Multi-domain Powertrain Model of Electric Light Aircraft
+# Electric Light Sport Aircraft Multiphysics Model
 Multi-domain modeling of general aviation electric light aircraft powertrain.
 
 ## Pipistrel Velis Electro
