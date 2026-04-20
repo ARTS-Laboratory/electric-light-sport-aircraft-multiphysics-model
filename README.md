@@ -54,7 +54,7 @@ Cite as:
   title  = {Multi-domain Powertrain Model of Electric Light Aircraft},
   groups = {ARTS-Lab},    
   url    = {https://github.com/ARTS-Laboratory/Multi-domain-Powertrain-Model-of-Electric-Light-Aircraft},   
-  notes  = {Accessed: Month dd, yyyy},   
+  note  = {Accessed: Month dd, yyyy},   
 }
 
 <p align="center">
